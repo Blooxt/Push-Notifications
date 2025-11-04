@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "1027020460093",
-    "project_id": "arka-418ce",
-    "storage_bucket": "arka-418ce.firebasestorage.app"
+    "project_number": "792961361935",
+    "project_id": "emerald-result-476501-r4",
+    "storage_bucket": "emerald-result-476501-r4.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1027020460093:android:5c2be6198f008faec65a54",
+        "mobilesdk_app_id": "1:792961361935:android:9c4d0d549bbebfbe075b7a",
         "android_client_info": {
-          "package_name": "com.example.turismo_notificaciones"
+          "package_name": "com.example.demonotifications"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAeuFQD7cw69E_Ts3b4bmfW7nCwT49VwVc"
+          "current_key": "AIzaSyDAiGw61AKaPq2N--nno02FKMwKv4cmjs4"
         }
       ],
       "services": {
