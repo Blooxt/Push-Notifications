@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027020460093",
+    "project_id": "arka-418ce",
+    "storage_bucket": "arka-418ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027020460093:android:5c2be6198f008faec65a54",
+        "android_client_info": {
+          "package_name": "com.example.turismo_notificaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeuFQD7cw69E_Ts3b4bmfW7nCwT49VwVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
